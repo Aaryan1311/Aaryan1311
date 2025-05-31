@@ -64,7 +64,7 @@ In my free time, I love playing chess, badminton, and cricket.
 <h3 align="left">🛠 Tech Skills</h3>
 
 **Languages:**  
-JavaScript, Python, C++, Java
+JavaScript, Java, Python, C++, 
 
 **Backend:**  
 Node.js, Express.js, Sequelize ORM, Redis, MySQL, MongoDB
@@ -72,7 +72,7 @@ Node.js, Express.js, Sequelize ORM, Redis, MySQL, MongoDB
 **Frontend:**  
 HTML, CSS, JavaScript
 
-**DevOps & Tools:**  
+**Tools:**  
 Git, Docker, Postman, VSCode
 
 **Concepts & Others:**  
