@@ -64,19 +64,33 @@ In my free time, I love playing chess, badminton, and cricket.
 <h3 align="left">🛠 Tech Skills</h3>
 
 **Languages:**  
-JavaScript, Java, Python, C++, 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30"/>  
 
 **Backend:**  
-Node.js, Express.js, Sequelize ORM, Redis, MySQL, MongoDB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="30"/> 
+<img src="https://cdn.simpleicons.org/express/ffffff" title="Express.js" alt="Express.js" width="30" style="background-color:black; padding:5px; border-radius:6px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30"/>  
 
 **Frontend:**  
-HTML, CSS, JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30"/>  
 
 **Tools:**  
-Git, Docker, Postman, VSCode
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30"/>  
 
 **Concepts & Others:**  
-System Design, Database Design, Object-Oriented Programming (OOP), Machine Learning, Artificial Intelligence, Neural Networks, Axios (HTTP client)
+System Design, Database Design, OOP, Machine Learning, AI, Neural Networks, Axios
+
 
 ###
 
@@ -85,3 +99,9 @@ System Design, Database Design, Object-Oriented Programming (OOP), Machine Learn
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aaryan1311&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub streak stats" />
 </div>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
