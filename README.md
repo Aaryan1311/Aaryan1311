@@ -61,35 +61,84 @@ In my free time, I love playing chess, badminton, and cricket.
 
 ###
 
-<h3 align="left">🛠 Tech Skills</h3>
+###
 
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30"/>  
+<h3 align="center">🛠 Tech Stack</h3>
 
-**Backend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="30"/> 
-<img src="https://cdn.simpleicons.org/express/ffffff" title="Express.js" alt="Express.js" width="30" style="background-color:black; padding:5px; border-radius:6px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30"/>  
+<div align="center">
 
-**Frontend:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30"/>  
+<table>
+  <tr>
+    <td align="center" colspan="6"><strong>Languages</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40"/></td>
+  </tr>
 
-**Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30"/>  
+  <tr><td colspan="6"><br></td></tr>
 
-**Concepts & Others:**  
-System Design, Database Design, OOP, Machine Learning, AI, Neural Networks, Axios
+  <tr>
+    <td align="center" colspan="6"><strong>Backend & Databases</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express.js" width="60"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40"/></td>
+  </tr>
+
+  <tr><td colspan="6"><br></td></tr>
+
+  <tr>
+    <td align="center" colspan="6"><strong>Frontend</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/></td>
+  </tr>
+
+  <tr><td colspan="6"><br></td></tr>
+
+  <tr>
+    <td align="center" colspan="6"><strong>Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" style="filter: invert(100%)"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/></td>
+    <td><img src="https://seeklogo.com/images/R/render-logo-FA178052EB-seeklogo.com.png" title="Render" width="40"/></td>
+  </tr>
+
+</table>
+
+<br/>
+
+<strong>Core Concepts:</strong><br/>
+System Design · OOP · DSA · DBMS · REST APIs · Authentication · Redis Caching · Machine Learning · Neural Networks
+
+</div>
+
+
+
+
+
+<h3 align="left">🚀 Projects</h3>
+
+- ✈️ [Airline Booking Management System](https://github.com/Aaryan1311/Airlines-Management-System) — A robust microservices system that handles 1,000+ flight bookings with zero race conditions.  
+- 🛒 [COLX – Student Marketplace](https://github.com/Aaryan1311/COLX) — A secure platform that powered 1,000+ peer-to-peer trades among 5,000+ students.  
+- 💼 [Java Employee Payroll System](https://github.com/Aaryan1311/Java-Employee-Payroll-System) — Automated payroll engine that handles 10K+ salary computations with OOP magic.  
+- 🏠 Property Listing Platform — Built a full-fledged backend with auth, Redis caching, recommendations, and complex filters deployed live on Render.
+
+###
+
 
 
 ###
