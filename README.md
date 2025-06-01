@@ -114,7 +114,6 @@ In my free time, I love playing chess, badminton, and cricket.
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/></td>
-    <td><img src="https://seeklogo.com/images/R/render-logo-FA178052EB-seeklogo.com.png" title="Render" width="40"/></td>
   </tr>
 
 </table>
