@@ -134,7 +134,7 @@ System Design · OOP · DSA · DBMS · REST APIs · Authentication · Redis Cach
 - ✈️ [Airline Booking Management System](https://github.com/Aaryan1311/Airlines-Management-System) — A robust microservices system that handles 1,000+ flight bookings with zero race conditions.  
 - 🛒 [COLX – Student Marketplace](https://github.com/Aaryan1311/COLX) — A secure platform that powered 1,000+ peer-to-peer trades among 5,000+ students.  
 - 💼 [Java Employee Payroll System](https://github.com/Aaryan1311/Java-Employee-Payroll-System) — Automated payroll engine that handles 10K+ salary computations with OOP magic.  
-- 🏠 Property Listing Platform — Built a full-fledged backend with auth, Redis caching, recommendations, and complex filters deployed live on Render.
+- 🏠 [Property Listing Platform](https://github.com/Aaryan1311/Property-Listing-System) — Built a full-fledged backend with auth, Redis caching, recommendations, and complex filters deployed live on Render.
 
 ###
 
